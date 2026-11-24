@@ -1,0 +1,1 @@
+"""TenderAI backend application package."""
